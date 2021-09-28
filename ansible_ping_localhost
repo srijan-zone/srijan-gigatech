@@ -1,0 +1,4 @@
+[root@ip-172-31-24-181 srijan-platform]# ansible -m ping localhost
+localhost | SUCCESS => {
+    "changed": false,
+    "ping": "pong"
